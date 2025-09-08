@@ -1,4 +1,4 @@
-# ✈️ Plane Booking System
+# ✈️ Flight Booking System
 
 A web-based Flight Booking Management System built using **ASP.NET Core MVC**, **Entity Framework Core**, and **SQL Server**.  
 This project demonstrates CRUD operations (Create, Read, Update, Delete) with a clean MVC architecture.
