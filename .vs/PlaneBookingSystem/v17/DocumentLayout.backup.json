@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayushg\\Desktop\\csharp\\DotNetTraining\\LiveExamples\\AdvancedCSharp\\PlaneBookingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2475996C-5E7B-4E6B-94A3-DC64ADDEBCED}|PlaneBookingSystem\\PlaneBookingSystem.csproj|c:\\users\\ayushg\\desktop\\csharp\\dotnettraining\\liveexamples\\advancedcsharp\\planebookingsystem\\planebookingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2475996C-5E7B-4E6B-94A3-DC64ADDEBCED}|PlaneBookingSystem\\PlaneBookingSystem.csproj|solutionrelative:planebookingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2475996C-5E7B-4E6B-94A3-DC64ADDEBCED}|PlaneBookingSystem\\PlaneBookingSystem.csproj|c:\\users\\ayushg\\desktop\\csharp\\dotnettraining\\liveexamples\\advancedcsharp\\planebookingsystem\\planebookingsystem\\views\\bookings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2475996C-5E7B-4E6B-94A3-DC64ADDEBCED}|PlaneBookingSystem\\PlaneBookingSystem.csproj|solutionrelative:planebookingsystem\\views\\bookings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2475996C-5E7B-4E6B-94A3-DC64ADDEBCED}|PlaneBookingSystem\\PlaneBookingSystem.csproj|c:\\users\\ayushg\\desktop\\csharp\\dotnettraining\\liveexamples\\advancedcsharp\\planebookingsystem\\planebookingsystem\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2475996C-5E7B-4E6B-94A3-DC64ADDEBCED}|PlaneBookingSystem\\PlaneBookingSystem.csproj|solutionrelative:planebookingsystem\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2475996C-5E7B-4E6B-94A3-DC64ADDEBCED}|PlaneBookingSystem\\PlaneBookingSystem.csproj|c:\\users\\ayushg\\desktop\\csharp\\dotnettraining\\liveexamples\\advancedcsharp\\planebookingsystem\\planebookingsystem\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2475996C-5E7B-4E6B-94A3-DC64ADDEBCED}|PlaneBookingSystem\\PlaneBookingSystem.csproj|solutionrelative:planebookingsystem\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2475996C-5E7B-4E6B-94A3-DC64ADDEBCED}|PlaneBookingSystem\\PlaneBookingSystem.csproj|c:\\users\\ayushg\\desktop\\csharp\\dotnettraining\\liveexamples\\advancedcsharp\\planebookingsystem\\planebookingsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2475996C-5E7B-4E6B-94A3-DC64ADDEBCED}|PlaneBookingSystem\\PlaneBookingSystem.csproj|solutionrelative:planebookingsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2475996C-5E7B-4E6B-94A3-DC64ADDEBCED}|PlaneBookingSystem\\PlaneBookingSystem.csproj|c:\\users\\ayushg\\desktop\\csharp\\dotnettraining\\liveexamples\\advancedcsharp\\planebookingsystem\\planebookingsystem\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2475996C-5E7B-4E6B-94A3-DC64ADDEBCED}|PlaneBookingSystem\\PlaneBookingSystem.csproj|solutionrelative:planebookingsystem\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2475996C-5E7B-4E6B-94A3-DC64ADDEBCED}|PlaneBookingSystem\\PlaneBookingSystem.csproj|c:\\users\\ayushg\\desktop\\csharp\\dotnettraining\\liveexamples\\advancedcsharp\\planebookingsystem\\planebookingsystem\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2475996C-5E7B-4E6B-94A3-DC64ADDEBCED}|PlaneBookingSystem\\PlaneBookingSystem.csproj|solutionrelative:planebookingsystem\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2475996C-5E7B-4E6B-94A3-DC64ADDEBCED}|PlaneBookingSystem\\PlaneBookingSystem.csproj|c:\\users\\ayushg\\desktop\\csharp\\dotnettraining\\liveexamples\\advancedcsharp\\planebookingsystem\\planebookingsystem\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2475996C-5E7B-4E6B-94A3-DC64ADDEBCED}|PlaneBookingSystem\\PlaneBookingSystem.csproj|solutionrelative:planebookingsystem\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2475996C-5E7B-4E6B-94A3-DC64ADDEBCED}|PlaneBookingSystem\\PlaneBookingSystem.csproj|c:\\users\\ayushg\\desktop\\csharp\\dotnettraining\\liveexamples\\advancedcsharp\\planebookingsystem\\planebookingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2475996C-5E7B-4E6B-94A3-DC64ADDEBCED}|PlaneBookingSystem\\PlaneBookingSystem.csproj|solutionrelative:planebookingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2475996C-5E7B-4E6B-94A3-DC64ADDEBCED}|PlaneBookingSystem\\PlaneBookingSystem.csproj|c:\\users\\ayushg\\desktop\\csharp\\dotnettraining\\liveexamples\\advancedcsharp\\planebookingsystem\\planebookingsystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2475996C-5E7B-4E6B-94A3-DC64ADDEBCED}|PlaneBookingSystem\\PlaneBookingSystem.csproj|solutionrelative:planebookingsystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2475996C-5E7B-4E6B-94A3-DC64ADDEBCED}|PlaneBookingSystem\\PlaneBookingSystem.csproj|c:\\users\\ayushg\\desktop\\csharp\\dotnettraining\\liveexamples\\advancedcsharp\\planebookingsystem\\planebookingsystem\\migrations\\20250907171457_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2475996C-5E7B-4E6B-94A3-DC64ADDEBCED}|PlaneBookingSystem\\PlaneBookingSystem.csproj|solutionrelative:planebookingsystem\\migrations\\20250907171457_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250907171457_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ayushg\\Desktop\\csharp\\DotNetTraining\\LiveExamples\\AdvancedCSharp\\PlaneBookingSystem\\PlaneBookingSystem\\Migrations\\20250907171457_InitialCreate.cs",
+              "RelativeDocumentMoniker": "PlaneBookingSystem\\Migrations\\20250907171457_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ayushg\\Desktop\\csharp\\DotNetTraining\\LiveExamples\\AdvancedCSharp\\PlaneBookingSystem\\PlaneBookingSystem\\Migrations\\20250907171457_InitialCreate.cs",
+              "RelativeToolTip": "PlaneBookingSystem\\Migrations\\20250907171457_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T17:14:57.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ayushg\\Desktop\\csharp\\DotNetTraining\\LiveExamples\\AdvancedCSharp\\PlaneBookingSystem\\PlaneBookingSystem\\Views\\Bookings\\Create.cshtml",
+              "RelativeDocumentMoniker": "PlaneBookingSystem\\Views\\Bookings\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ayushg\\Desktop\\csharp\\DotNetTraining\\LiveExamples\\AdvancedCSharp\\PlaneBookingSystem\\PlaneBookingSystem\\Views\\Bookings\\Create.cshtml",
+              "RelativeToolTip": "PlaneBookingSystem\\Views\\Bookings\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T17:10:14.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\ayushg\\Desktop\\csharp\\DotNetTraining\\LiveExamples\\AdvancedCSharp\\PlaneBookingSystem\\PlaneBookingSystem\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "PlaneBookingSystem\\Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\ayushg\\Desktop\\csharp\\DotNetTraining\\LiveExamples\\AdvancedCSharp\\PlaneBookingSystem\\PlaneBookingSystem\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "PlaneBookingSystem\\Controllers\\BookingsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T17:08:58.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\ayushg\\Desktop\\csharp\\DotNetTraining\\LiveExamples\\AdvancedCSharp\\PlaneBookingSystem\\PlaneBookingSystem\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "PlaneBookingSystem\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\ayushg\\Desktop\\csharp\\DotNetTraining\\LiveExamples\\AdvancedCSharp\\PlaneBookingSystem\\PlaneBookingSystem\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "PlaneBookingSystem\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T17:06:57.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ayushg\\Desktop\\csharp\\DotNetTraining\\LiveExamples\\AdvancedCSharp\\PlaneBookingSystem\\PlaneBookingSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PlaneBookingSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ayushg\\Desktop\\csharp\\DotNetTraining\\LiveExamples\\AdvancedCSharp\\PlaneBookingSystem\\PlaneBookingSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PlaneBookingSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T17:06:18.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ayushg\\Desktop\\csharp\\DotNetTraining\\LiveExamples\\AdvancedCSharp\\PlaneBookingSystem\\PlaneBookingSystem\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "PlaneBookingSystem\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ayushg\\Desktop\\csharp\\DotNetTraining\\LiveExamples\\AdvancedCSharp\\PlaneBookingSystem\\PlaneBookingSystem\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "PlaneBookingSystem\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T17:04:33.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayushg\\Desktop\\csharp\\DotNetTraining\\LiveExamples\\AdvancedCSharp\\PlaneBookingSystem\\PlaneBookingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "PlaneBookingSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\ayushg\\Desktop\\csharp\\DotNetTraining\\LiveExamples\\AdvancedCSharp\\PlaneBookingSystem\\PlaneBookingSystem\\Program.cs",
+              "RelativeToolTip": "PlaneBookingSystem\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T14:57:29.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ayushg\\Desktop\\csharp\\DotNetTraining\\LiveExamples\\AdvancedCSharp\\PlaneBookingSystem\\PlaneBookingSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "PlaneBookingSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\ayushg\\Desktop\\csharp\\DotNetTraining\\LiveExamples\\AdvancedCSharp\\PlaneBookingSystem\\PlaneBookingSystem\\appsettings.json",
+              "RelativeToolTip": "PlaneBookingSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-07T14:50:37.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ayushg\\Desktop\\csharp\\DotNetTraining\\LiveExamples\\AdvancedCSharp\\PlaneBookingSystem\\PlaneBookingSystem\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PlaneBookingSystem\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ayushg\\Desktop\\csharp\\DotNetTraining\\LiveExamples\\AdvancedCSharp\\PlaneBookingSystem\\PlaneBookingSystem\\appsettings.Development.json",
+              "RelativeToolTip": "PlaneBookingSystem\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-07T14:50:48.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ayushg\\Desktop\\csharp\\DotNetTraining\\LiveExamples\\AdvancedCSharp\\PlaneBookingSystem\\PlaneBookingSystem\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PlaneBookingSystem\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ayushg\\Desktop\\csharp\\DotNetTraining\\LiveExamples\\AdvancedCSharp\\PlaneBookingSystem\\PlaneBookingSystem\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "PlaneBookingSystem\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T14:43:17.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\ayushg\\Desktop\\csharp\\DotNetTraining\\LiveExamples\\AdvancedCSharp\\PlaneBookingSystem\\PlaneBookingSystem\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "PlaneBookingSystem\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\ayushg\\Desktop\\csharp\\DotNetTraining\\LiveExamples\\AdvancedCSharp\\PlaneBookingSystem\\PlaneBookingSystem\\Models\\Booking.cs",
+              "RelativeToolTip": "PlaneBookingSystem\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T14:42:51.613Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

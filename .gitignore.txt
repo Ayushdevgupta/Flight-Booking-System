@@ -1,0 +1,16 @@
+# Visual Studio build/cache files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+
+# Publish output
+**/publish/
+**/wwwroot/*.map
+
+# Secrets
+appsettings.*.local.json
+secrets.json
